@@ -4,7 +4,7 @@
 
 Olá, eu sou Ramon Nascimento.
 
-Tenho 29 anos e sou estudante de Análise e Desenvolvimento de Sistemas (EAD) pela faculdade Estácio.
+Tenho 30 anos e sou estudante de Análise e Desenvolvimento de Sistemas (EAD) pela faculdade Estácio.
 
 Atualmente estou trabalhando em dois projetos principais: um app de quiz no Kodular usando blocos lógicos e um site pessoal para apresentar meus projetos e habilidades.
 
